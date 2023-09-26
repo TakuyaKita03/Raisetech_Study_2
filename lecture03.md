@@ -11,14 +11,14 @@ Ver： 5.6.5
 
 
 ##### APサーバー起動時
-![APサーバー起動確認](Raisetech_Study_2/img/kadai3_1_cloud9_dev_success.jpg)
+![APサーバー起動確認](img/kadai3_1_cloud9_dev_success.jpg)
 
 
 
 #####　APサーバーを終了させると、引き続きアクセスできない。
 
 
-![APサーバー終了後](Raisetech_Study_2/img/kadai3_4_ap_server_shutdown.jpg)
+![APサーバー終了後](img/kadai3_4_ap_server_shutdown.jpg)
 
 
 
@@ -32,14 +32,14 @@ Ver　8.0.34
 
 
 
-![DBサーバーのバージョン](Raisetech_Study_2/img/kadai3_3_mysql_version.jpg)
+![DBサーバーのバージョン](img/kadai3_3_mysql_version.jpg)
 
 
 
 #### Railsの構成管理ツール：Bundler
 
 
-![Bundler_version](Raisetech_Study_2/img/kadai3_5_bundler_ver.jpg)
+![Bundler_version](img/kadai3_5_bundler_ver.jpg)
 
 
 ### 今回の課題から学んだこと
