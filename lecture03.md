@@ -6,7 +6,7 @@ APサーバー：Puma
 Ver： 5.6.5
 
 
-![APサーバーのバージョン](Raisetech_Study_2/img/kadai3_2_2_ap_server_ver_2.jpg)
+![APサーバーのバージョン](img/kadai3_2_2_ap_server_ver_2.jpg)
 
 
 
