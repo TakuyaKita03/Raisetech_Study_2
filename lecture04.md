@@ -13,8 +13,10 @@
 
 
 - セキュリティグループの設定内容
-    ![セキュリティグループ](img/kadai4_4_security_group.jpg)
+    ![セキュリティグループ](img/kadai4_10_securitygroup_ec2-rds-1.jpg)
+
+    ![セキュリティグループ2](img/kadai4_11_securitygroup_rds-ec2-1.jpg)
 
 
 - RDSがプライベートサブネットに配置される設定になっていること
-    ![RDSがプライベートサブネットに配置](img/kadai4_5_subnet.jpg)
+    ![RDSがプライベートサブネットに配置](img/サブネット一覧_231015_2008.jpg)
