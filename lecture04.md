@@ -19,14 +19,19 @@
 
 - セキュリティグループの設定内容
     
-
+    
+    RDS→EC2のセキュリティグループ
     ![sec_group_1](img/kadai4_14_secgroup_rds-ec2-1_in.jpg)
 
     
     ![sec_group_2](img/kadai4_15_secgroup_rds-ec2-1_out.jpg)
     
     
-    ![sec_group_3](img/kadai4_16_secgroup_ec2-rds-1_out.jpg)
+    EC2→RDSのセキュリティグループ
+    ![sec_group_3](img/kadai4_16_3_secgroup_ec2-rds-1_out2.jpg)
+    
+    
+    ![sec_group_4](img/kadai4_16_2_secgroup_ec2-rds-1_in.jpg)
     
     - セキュリティグループのec2-rds-1のアウトバウンドルールにポート3306を開放するように設定。
     
